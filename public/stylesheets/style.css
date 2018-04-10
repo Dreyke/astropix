@@ -1,7 +1,8 @@
 body {
   padding: 15px;
-  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
-  background-color: whitesmoke;
+  font-family: 'Lora', serif;
+  font: 14px
+  background-color: #babdcd;
 }
 
 img {
@@ -9,5 +10,5 @@ img {
 }
 
 a {
-  color: #00B7FF;
+  color: blue;
 }
